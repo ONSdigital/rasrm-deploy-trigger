@@ -1,4 +1,4 @@
-# concourse-demo-deploy-trigger
+# rasrm-deploy-trigger
 Deployments to preprod and prod require manual approval. This repository is used to trigger deployments to preprod and prod.
 
 Triggering a preprod release
